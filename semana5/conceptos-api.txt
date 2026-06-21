@@ -1,0 +1,9 @@
+¿Qué hace esta ruta?.
+Recibe la informacion enviada por el usuario en formato JSON. Toma el valor 
+de mensaje que llega en la solicitud y responde con un objeto JSON confirmando 
+que el reporte fue recibido.
+
+¿Para qué podría servir en una aplicación comunitaria?.
+Podría utilizarse para que los ciudadanos envíen reportes sobre problemas o 
+necesidades de la comunidad, como daños en vías, fallas en el alumbrado público, 
+acumulación de basura, problemas de seguridad o sugerencias para mejorar el barrio.
